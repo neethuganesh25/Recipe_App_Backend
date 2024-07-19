@@ -1,6 +1,7 @@
 {
   "recipe": [
     {
+      "name": "NEETHU GANESH",
       "Email": "neethuganesh@gmail.com",
       "RecipeName": "Dosa",
       "Description": "a thin, savoury crepe in South Indian cuisine made from a fermented batter of ground white gram and rice.",
@@ -11,6 +12,7 @@
       "id": 1
     },
     {
+      "name": "varsha",
       "Email": "varsha",
       "RecipeName": "Matar Kulcha.",
       "Description": "Kulcha is a Persian term for a disc-shaped loaf of leavened bread. In India, this term is commonly used for regular English bread",
@@ -21,6 +23,7 @@
       "id": 2
     },
     {
+      "name": "kavya",
       "Email": "kavya",
       "RecipeName": "Risotto",
       "Description": "Risotto is an Italian rice dish cooked with broth until it reaches a creamy consistency. ",
@@ -41,6 +44,7 @@
       "id": 4
     },
     {
+      "name": "akash",
       "Email": "akash",
       "RecipeName": "Sopaipillas",
       "Description": "Sopaipillas",
@@ -88,7 +92,7 @@
     },
     {
       "name": "NEETHU GANESH",
-      "description": "fwf",
+      "description": "super",
       "rating": "4",
       "id": 8
     },
